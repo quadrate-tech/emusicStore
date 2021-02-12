@@ -98,7 +98,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-config</artifactId>
-            <version>3.2.5.RELEASE</version>
+            <version>5.4.4</version>
         </dependency>
 
         <dependency>
